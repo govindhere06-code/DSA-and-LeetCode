@@ -158,4 +158,4 @@ For example:
 [3, 4, 5, 1, 2]
 ```
 
-is not sorted in its current form, so this function returns `False`.
+is not sorted in its current form, so this function returns `False'
