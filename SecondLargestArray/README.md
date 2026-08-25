@@ -139,3 +139,4 @@ Only two extra variables are used.
 - The second largest element must be **distinct** from the largest element.
 - The algorithm does not require sorting.
 - Using a single traversal makes this more efficient than the sorting approach.
+
